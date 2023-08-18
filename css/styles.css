@@ -67,6 +67,9 @@ li {
   background-color: #4d5ae5;
   font-size: 16px;
   cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 /* logo */
 .logo {
