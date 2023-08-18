@@ -32,7 +32,7 @@ li {
 .team {
   background-color: #f4f4fd;
 }
-.team-list {
+.team-item {
   background-color: #fff;
 }
 
@@ -49,6 +49,7 @@ li {
   line-height: 1.12;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
 }
 .h-three {
   font-size: 20px;
@@ -101,5 +102,9 @@ li {
   background-color: #404bbf;
 }
 .advantages-text {
+    letter-spacing: 0.02em;
+}
+.team-text {
+    font-size: 16px;
     letter-spacing: 0.02em;
 }
