@@ -63,9 +63,9 @@ li {
   letter-spacing: 0.02em;
 }
 
-.hero-button span {
+.hero-button {
   color: #fff;
-  background-color: #4d5ae5;
+  background-color: #4d5ae5; 
   font-size: 16px;
   cursor: pointer;
   font-weight: 500;
